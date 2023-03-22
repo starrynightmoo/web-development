@@ -1,0 +1,9 @@
+#bg
+		{
+           width: 1500px;
+           height: 1500px;
+           background-color: red;
+           background-repeat: no-repeat;
+           background-position: right bottom;
+           background-image:url("https://images.unsplash.com/photo-1582395787198-630d7fb2bfbf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8NTAwJTIwcGl4ZWx8ZW58MHx8MHx8&w=1000&q=80");   
+		}
